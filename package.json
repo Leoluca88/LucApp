@@ -1,0 +1,8 @@
+{
+  "name": "Luca",
+  "description": "Prima app di Luca",
+  "main": "app.js",
+  "dependencies": {
+    "tabris": "1.2.0"
+  }
+}
