@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget
-    id="luca"
+    id="it.lucaleone"
     version="1.0.0"
     xmlns:gap="http://phonegap.com/ns/1.0"
     xmlns="http://www.w3.org/ns/widgets"
@@ -10,7 +10,7 @@
     <description>
         La mia prima app
     </description>
-    <author email="me@me.com" href="http://www.me.me">
+    <author email="contact@lucaleone.it" href="http://lucaleone.it">
         Luca Leone
     </author>
  
